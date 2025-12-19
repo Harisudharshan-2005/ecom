@@ -21,7 +21,7 @@ export default function Products({ addToCart }) {
         >
           {/* IMAGE ONLY ADDED */}
           <img
-            src="https://via.placeholder.com/200"
+            src="http://16.170.219.167:5000"
             alt={p.name}
             style={{ width: "100%" }}
           />
